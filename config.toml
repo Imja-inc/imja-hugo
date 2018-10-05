@@ -1,0 +1,4 @@
+baseURL = "https://imja.io"
+languageCode = "en-us"
+title = "Imja: Scaling Software Engineering"
+theme = "ananke"
