@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Imja: Scaling Software Engineering</title>
+    <link>https://imja.io/posts/</link>
+    <description>Recent content in Posts on Imja: Scaling Software Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Oct 2018 22:00:31 -0700</lastBuildDate>
+    
+	<atom:link href="https://imja.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Imja</title>
+      <link>https://imja.io/posts/welcome-to-imja/</link>
+      <pubDate>Thu, 04 Oct 2018 22:00:31 -0700</pubDate>
+      
+      <guid>https://imja.io/posts/welcome-to-imja/</guid>
+      <description>Imja: Exercise in Long Bets This is an experiment in how I can have an impact in software engineering best practices, through training and improved tools. There&amp;rsquo;s a few big things in the works, but the idea here is:
+ We need to improve cross-team communication to deliver the best software
+ Save more time with better software, hacks cost lot more over longer time
+ Not everyone will read Fowler and Schneier and follow best practices.</description>
+    </item>
+    
+  </channel>
+</rss>
