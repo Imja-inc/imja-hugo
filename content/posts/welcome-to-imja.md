@@ -1,11 +1,8 @@
 ---
-title: "Welcome to Imja"
+title: "Imja: Excercise in Long Bets"
 date: 2018-10-04T22:00:31-07:00
 draft: false
 ---
-
-Imja: Exercise in Long Bets
-===
 
 This is an experiment in how I can have an impact in software engineering best practices, through training and improved tools. There's a few big things in the works, but the idea here is:
 
